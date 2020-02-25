@@ -1,6 +1,6 @@
 # BitCoinPrice
 
-In this project, I created a bitcoin price fetch for different currancy
+In this project, I created a bitcoin price fetcher for different currencies
 
 ----------------------------------
  ## Credit
